@@ -1,5 +1,27 @@
-# COMS4995
+### Sap Au
 
-1. CircleEarth: Block building website platform alternative to Squarespace 
+#### Motivation
 
-2. Project X-ash: Open source Super Smash Bros. Brawl mod, implementing core gameplay mechanics of Super Smash Bros. Melee (widely thought to be superior to Brawl), but removing some hardcore aspects, such as L-cancelling, to appeal to a larger audience base.
+Squarespace is a website building and hosting service that allows users to build websites using drag-and-drop techniques. However, prices for Squarespace can go upwards of $46. 'Free' alternatives to Squarespace, such as WordPress, requires high technical knowledge to get started, and thus can be unappealing towards many. Other alternatives have similar drawbacks or lack certain features that make them unappealing to use.
+
+#### Idea
+
+Sap Au (short for Sapere aude) is an open-source alternative to proprietary website building services. The key principle of Sap Au is to allow non-technical users to deploy fully-fledged websites. The company will generate funds by selling support services and additional features that aren't in the open-source edition.
+
+#### Objective + Manifesto
+
+1. Minimalism
+
+We want to provide the ability to create beautiful websites, without providing unnecessary functionalities that will clutter the user experience.
+
+2. Never forced in and always data-secure
+
+Sap Au will always allow users to back out  without loss of access to data.
+
+3. Free-to-build
+
+There will always exist a free-to-build, open source version of Sap Au for users to build websites, without paywalls. 
+
+4. Simple
+
+Users will be able to build websites quickly, and without the need of any technical knowledge. 
