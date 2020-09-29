@@ -1,6 +1,6 @@
 # Sap Au
 
-https://img.shields.io/github/license/thengo1/SapAu
+![GitHub](https://img.shields.io/github/license/thengo1/SapAu)
 
 #### Motivation
 
