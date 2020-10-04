@@ -4,7 +4,7 @@
 
 #### Motivation
 
-Squarespace is a website building and hosting service that allows users to build websites using drag-and-drop techniques. However, prices for Squarespace can go upwards of $46. 'Free' alternatives to Squarespace, such as WordPress, requires high technical knowledge to get started, and thus can be unappealing towards many. Other alternatives have similar drawbacks or lack certain features that make them unappealing to use.
+Squarespace is a website building and hosting service that allows users to build websites using drag-and-drop techniques. However, prices for Squarespace can go upwards of $46. 'Free' alternatives to Squarespace, such as WordPress, require high technical knowledge to get started, and thus can be unappealing towards many. Other alternatives have similar drawbacks or lack certain features that make them unappealing to use.
 
 #### Idea
 
