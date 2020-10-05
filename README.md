@@ -1,14 +1,8 @@
-# Sap Au
+# Bbook
 
-![GitHub](https://img.shields.io/github/license/thengo1/SapAu)
+![GitHub](https://img.shields.io/github/license/thengo1/bbook)
 
-#### Motivation
-
-Squarespace is a website building and hosting service that allows users to build websites using drag-and-drop techniques. However, prices for Squarespace can go upwards of $46. 'Free' alternatives to Squarespace, such as WordPress, require high technical knowledge to get started, and thus can be unappealing towards many. Other alternatives have similar drawbacks or lack certain features that make them unappealing to use.
-
-#### Idea
-
-Sap Au (short for Sapere aude) is an open-source alternative to proprietary website building services. The key principle of Sap Au is to allow non-technical users to deploy fully-fledged websites. The company will generate funds by selling support services and additional features that aren't in the open-source edition.
+Bbook is a static website builder that's designed to create a page that's similar to a book.
 
 #### Objective + Manifesto
 
@@ -18,7 +12,7 @@ We want to provide the ability to create beautiful websites, without providing u
 
 2. Never forced in and always data-secure
 
-Sap Au will always allow users to back out  without loss of access to data.
+Sap Au will always allow users to back out anytime, without loss of access to data.
 
 3. Free-to-build
 
