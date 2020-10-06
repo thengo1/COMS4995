@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/thengo1/bbook)
 
-Bbook is a static website builder that's designed to create a page that's similar to a (up-and-down) book.
+Bbook is a static single page website builder that's designed to create a page that's similar to a (up-and-down) book.
 
 #### Objective + Manifesto
 
@@ -12,11 +12,11 @@ We want to provide the ability to create beautiful websites, without providing u
 
 2. Never forced in and always data-secure
 
-Sap Au will always allow users to back out anytime, without loss of access to data.
+We will always allow users to back out anytime, without loss of access to data.
 
 3. Free-to-build
 
-There will always exist a free-to-build, open source version of Sap Au for users to build websites, without paywalls. 
+There will always exist a free-to-build, open source version of Bbook for users to build websites, without paywalls. 
 
 4. Simple
 
