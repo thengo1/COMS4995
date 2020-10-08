@@ -6,7 +6,7 @@ import markdown
 if not os.path.exists('public'):
     os.mkdir('public')
 
-for f in glob.iglob('book/*.md'):
+for f in glob.iglob('./book/*.md'):
     with open(f, 'r') as file:
         raw = file.read()
         html = markdown.markdown(raw)
