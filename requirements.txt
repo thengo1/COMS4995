@@ -1,5 +1,6 @@
 ###### Requirements without Version Specifiers ######`
 Markdown
 pytest
+pytest-cov
 
 ###### Requirements with Version Specifiers ######`
