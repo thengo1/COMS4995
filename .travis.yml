@@ -11,6 +11,7 @@ install:
 
 script:
     - python -m pytest -vvv --cov=./ tests/
+    - black ./
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
