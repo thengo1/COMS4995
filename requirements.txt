@@ -3,5 +3,6 @@ Markdown
 pytest
 pytest-cov
 codecov
+black
 
 ###### Requirements with Version Specifiers ######`
