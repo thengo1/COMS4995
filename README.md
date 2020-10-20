@@ -2,7 +2,8 @@
 
 ![GitHub](https://img.shields.io/github/license/thengo1/bbook)
 ![Travis CI](https://img.shields.io/travis/com/thengo1/bbook)
-[![codecov](https://codecov.io/gh/thengo1/bbook/branch/master/graph/badge.svg?token=TDKSBN5JZB)](undefined)
+[![codecov](https://codecov.io/gh/thengo1/bbook/branch/master/graph/badge.svg?token=TDKSBN5JZB)](CodeCov)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Bbook is a static, single-page website builder that's designed to create a page that's similar to a (up-and-down) book.
 
